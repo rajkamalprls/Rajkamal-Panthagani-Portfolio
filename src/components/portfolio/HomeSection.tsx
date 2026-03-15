@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { ArrowRight, Linkedin, Github, Instagram, Sparkles, MapPin, Users } from "lucide-react";
 import heroBg from "@/assets/hero-bg.png";
 
-const roles = ["Entrepreneur", "MBA Graduate", "Programmer", "Photographer", "Community Builder"];
+const roles = ["Entrepreneur", "Founder - The Student Spot", "Community Builder", "Content Creator", "Event Networker", "Startup Ecosystem Connector", "Photographer" ];
 
 const socialLinks = [
   { icon: Linkedin, href: "https://www.linkedin.com/in/rajkamal-panthagani-b211b216a/", label: "LinkedIn" },
