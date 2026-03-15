@@ -29,7 +29,7 @@ const education = [
 
 const experience = [
   {
-    title: "Founder & Community Builder",
+    title: "Founder & CEO",
     company: "The Student Spot",
     period: "Nov 2024 — Present",
     points: [
