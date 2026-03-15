@@ -14,10 +14,12 @@ const ecosystemItems = [
 ];
 
 const highlights = [
-  { icon: GraduationCap, label: "MBA in Marketing" },
-  { icon: Code, label: "Tech & Automation" },
-  { icon: Camera, label: "Photography & Video" },
-  { icon: Sparkles, label: "Community Builder" },
+  { icon: Sparkles, label: "Founder • The Student Spot" },
+  { icon: Users, label: "Student-to-Founder Ecosystem Builder" },
+  { icon: Calendar, label: "100+ Events Attended" },
+  { icon: GraduationCap, label: "MBA Graduate" },
+  { icon: Code, label: "Tech, AI & Automation Enthusiast" },
+  { icon: Camera, label: "Photographer & Content Creator " },
 ];
 
 const stagger = {
