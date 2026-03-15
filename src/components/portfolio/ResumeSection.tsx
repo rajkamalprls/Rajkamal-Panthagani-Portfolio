@@ -89,8 +89,6 @@ const languages = [
 ];
 
 const certifications = [
-  "Python Developer Intern — CODSOFT",
-  "Web Development Intern — OCTANET",
   "Microsoft Office 365 Professional — Magic Bus Foundation",
   "Python Coding & Programming — Samsung Innovation Campus",
   "Advanced Excel — Rotaract Club of Utkarsh",
