@@ -7,7 +7,6 @@ const roles = ["Entrepreneur", "MBA Graduate", "Programmer", "Photographer", "Co
 
 const socialLinks = [
   { icon: Linkedin, href: "https://www.linkedin.com/in/rajkamal-panthagani-b211b216a/", label: "LinkedIn" },
-  { icon: Github, href: "https://github.com/rajkamalprls", label: "GitHub" },
   { icon: Instagram, href: "https://www.instagram.com/rajkamalpanthagani/", label: "Instagram" },
 ];
 
