@@ -32,7 +32,7 @@ const tssSocials = [
   { icon: AtSign, label: "Threads", href: "https://www.threads.com/@the_studentspot", accent: "hsl(0,0%,45%)" },
   { icon: Linkedin, label: "LinkedIn Page", href: "https://www.linkedin.com/company/thestudentspot/", accent: "hsl(210,80%,55%)" },
   { icon: ExternalLink, label: "X (Twitter)", href: "https://x.com/the_studentspot", accent: "hsl(200,10%,35%)" },
-  { icon: Youtube, label: "YouTube", href: "https://youtube.com/@thestudentspot", accent: "hsl(0,80%,55%)" },
+  { icon: Youtube, label: "YouTube", href: "https://youtube.com/@the.studentspot", accent: "hsl(0,80%,55%)" },
 ];
 
 type TabId = "personal" | "tss";
