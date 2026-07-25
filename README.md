@@ -62,7 +62,6 @@ Here you'll find projects related to:
 - Opportunity curation
 - Startup ecosystem thinking
 
-
 ## 🌍 The Student Spot Community
 
 We’re building one of the most active **student opportunity communities in India**.
@@ -98,12 +97,10 @@ I'm always open to collaborations related to:
 If you're building something interesting, let's connect.
 
 📧 Email  
-rajkamalpanthagani@gmail.com
 contact.thestudentspot@gmail.com
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/rajkamalprls
-
 
 ## 💡 Vision
 
